@@ -1,4 +1,4 @@
-# 
+# Enhance Audacity for macOS with Audacity for macOS custom Script: video-stabilization & lens-flare, the #1 script. Includes video-stabilization and lens-flare for a smoother and
 
 
 
